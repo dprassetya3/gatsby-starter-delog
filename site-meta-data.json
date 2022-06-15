@@ -1,9 +1,9 @@
 {
   "title": "Dimas",
   "siteUrl": "https://dimasprass.com/",
-  "description": "Delog, a GatsbyJS and Netlify CMS starter for Designers and Developers",
+  "description": "Ahlan bikum. Blog personal dimasprass, untuk share berbagai macam hal yang menarik dan bermanfaat. Jangan lupa subscribe untuk mendapatkan info menarik lainnya.",
   "home": {
-    "title": "Hi! I'm Delog",
-    "description": "I have been specifically designed to become a digital home for designers and developers, help them build amazing professional looking websites with ease. You don't have to worry about nitty gritty of web hosting services to run a blog and yet take full advantage of CMS to manage content :)"
+    "title": "Ahlan bikum.",
+    "description": "Hanya ingin berbagi lewat tulisan :)"
   }
 }
